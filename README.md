@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ammar
 - 👀 I’m interested in Programming, Operating Systems and Web-Dev.
 - 🌱 I’m currently learning Python and CSS 
-- 💞️ I would be interested to collaborate on beginner Computer-Science projects.
+- 💞️ I would be interested to collaborate on beginner-level Computer-Science projects.
 - 📫 Contact me: ammar250026@gmail.com
 
 <!---
