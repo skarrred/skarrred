@@ -1,0 +1,92 @@
+body{
+	background-color: #ffffe6;
+	margin: 0;
+}
+
+.container{
+	width: 90%;
+	margin: auto;
+}
+
+.yourcontainer {
+	overflow: hidden;
+	clear: both;
+}
+
+.text{
+	margin: 20px;
+	margin-bottom: 35px;
+	font-family: Monaco;
+	font-weight: 320;
+}
+
+#main-header{
+	background-color: #333333;
+}
+
+#main-header h1{
+	text-align: center;
+	font-size: 45px;
+	font-family: Lucida Console;
+	color: white;
+	padding: 20px 0px;
+	margin: 0px;
+}
+
+#description{
+	background-color: #404040;
+	color: white;
+	margin: 0;
+	padding: 20px;
+	font-family: Georgia;
+	font-size: 15px;
+	border-top: 1px solid gold;
+	margin-bottom: 40px
+}
+
+.products{
+	border-top: 1px solid black;
+	margin-bottom: 40px;
+}
+
+.products img{
+	float: right;
+	margin: 7px;
+	border: 2px solid #404040;
+}
+.products p{
+	margin: 20px;
+	font-weight: 540;
+	font-size: 20px;
+}
+.products button{
+	padding: 3px 9px;
+	font-size: 14px;
+	border:2px solid #333333;
+	background: #333333;
+	color: white;
+	position: relative;
+	top: 20px;
+	left: 90px;
+}
+.products a{
+	color: black;
+	font-size: 14px;
+	font-style: italic;
+	position: relative;
+	left: 200px;
+}
+.products a:hover{
+	color: blue;
+}
+.products h4{
+	float: right;
+	position: relative;
+	top: 25px;
+	font-weight: 500;
+}
+
+.buy-button:hover{
+	background: red;
+	color: white;
+}
